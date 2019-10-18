@@ -2,18 +2,20 @@
 
 Este documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, seu planejamento, decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
-## [Canvas do Projeto](canvas-do-produto.md)
+## Artefatos do projeto
 
-## [Design e Wireframes](desenvolvimento-da-solucao.md)
+- [Canvas do Projeto](canvas-do-produto.md)
 
-## [Planejamento da Release](planejamento-da-release.md)
+- [Design e Wireframes](desenvolvimento-da-solucao.md)
 
-## [Representação da Arquitetura](representacao-da-arquitetura.md)
+- [Planejamento da Release](planejamento-da-release.md)
 
-## [Repositório do back-end da aplicação](https://github.com/roavellarm/room-api)
+- [Representação da Arquitetura](representacao-da-arquitetura.md)
 
-## [Repositório do front-end da aplicação](https://github.com/roavellarm/room-web)
+- [Repositório do back-end da aplicação](https://github.com/roavellarm/room-api)
 
-## [Testes e Validação](testes.md)
+- [Repositório do front-end da aplicação](https://github.com/roavellarm/room-web)
 
-## [POSTMORTEM](postmortem.md)
+- [Testes e Validação](testes.md)
+
+- [POSTMORTEM](postmortem.md)
