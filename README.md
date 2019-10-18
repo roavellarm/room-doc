@@ -1,6 +1,6 @@
 # Room - Documentação e Artefatos
 
-Este documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, seu planejamento, decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
+Este documento tem como objetivo apresentar e descrever o projeto *Room*, fornecendo informações e artefatos sobre a concepção do produto, seu planejamento, decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
 ## Artefatos do projeto
 
