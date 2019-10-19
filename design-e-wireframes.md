@@ -8,6 +8,7 @@
 
 
 ## Arte
+(de [Samanta Flôor](https://www.samantafloor.com.br/))
 
 #### Meeting room
 ![Meeting room](.gitbook/assets/meeting-room.jpg)
