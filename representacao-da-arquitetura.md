@@ -2,9 +2,9 @@
 
 ## Modelo de Arquitetura
 
-O modelo de arquitetura adotado foi MVC
+O modelo de arquitetura adotado foi MVC...
 
-Explicar a lógica entre as camadas
+Explicar a lógica entre as camadas...
 
 * A
 * B
