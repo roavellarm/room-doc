@@ -4,7 +4,7 @@
 * [Canvas do Produto](canvas-do-produto.md)
 * [Planejamento da Release](planejamento-da-release.md)
 * [Representação da Arquitetura](representacao-da-arquitetura.md)
-* [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
+* [Design e Wireframes](design-e-wireframes.md)
 * [Testes e Validação](testes.md)
 * [POSTMORTEM](postmortem.md)
 

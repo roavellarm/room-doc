@@ -2,7 +2,7 @@
 
 ## Modelo de Arquitetura
 
-O modelo de arquitetura adotado foi XXX \(MVC, MVP, MVVM, ...\)
+O modelo de arquitetura adotado foi MVC
 
 Explicar a lógica entre as camadas
 
@@ -11,17 +11,17 @@ Explicar a lógica entre as camadas
 * C
 * D
 
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/image.png)
+![Arquitetura da Solução](.gitbook/assets/image.png)
 
-Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
+Explicar as abstrações das camadas \(ou seja, cada camada e "explodir"\)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
 ## Visão Lógica
+TODO
 
 ### Diagrama de Classes
+TODO
 
 ### Banco de Dados
-
-###  
-
+TODO
