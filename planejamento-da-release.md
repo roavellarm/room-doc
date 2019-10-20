@@ -10,3 +10,4 @@ Apresentar a técnica para levantar as Histórias de Usuário e suas prioridades
 
 Apresentar o sprint backlog
 
+[Planejamento](.gitbook/assets/planejamento.pdf)
