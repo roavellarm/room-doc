@@ -1,4 +1,4 @@
-[<- Voltar ao menu](README.md)
+[<- Voltar ao menu](README.md#artefatos-do-projeto)
 
 # Design e wireframes do projeto
 
