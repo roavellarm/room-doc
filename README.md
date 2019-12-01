@@ -16,7 +16,7 @@ Este documento tem como objetivo apresentar e descrever o projeto *Room*, fornec
 
 - [Design e Wireframes](design-e-wireframes.md)
 
-- [Telas do sistema](design-e-wireframes.md)
+- [Telas do sistema](telas_do_sistema.md)
 
 - [Planejamento da Release](planejamento-da-release.md)
 
