@@ -6,7 +6,8 @@
 * [Tamanho das telas a serem consideradas](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=0%3A1)
 
 
-- [Componentes visuais do app](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42)
+<!-- - [Componentes visuais do app](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42) -->
+
 - <a href="https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42" target="_blank">Componentes visuais do app</a>
 
 
