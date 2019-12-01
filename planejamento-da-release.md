@@ -4,7 +4,13 @@
 
 ## Product Backlog
 
-Apresentar a técnica para levantar as Histórias de Usuário e suas prioridades
+O planejamento do projeto foi realizado em várias etapas, devido aos ajustes 
+necessários ao longo do processo.
+Toda a parte de planejamento e gerenciamento das sprints e backlog foi realizada
+com o Pivotal Tracker, por auxiliar na organização e metrificação de velocidade 
+de produção e gerenciamento de tempo.
+
+[Aqui](https://www.pivotaltracker.com/n/projects/2385671) pode ser visualizado o backlog e as realizações das sprints.
 
 ## Roadmap
 
