@@ -7,7 +7,7 @@
 
 
 - [Componentes visuais do app](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42)
-- <a href="https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42" target="blank">Componentes visuais do app</a>
+- <a href="https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42" target="_blank">Componentes visuais do app</a>
 
 
 ## Arte
