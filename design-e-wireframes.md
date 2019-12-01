@@ -3,7 +3,10 @@
 # Design e wireframes do projeto
 
 ## Design
-* [Tamanho das telas a serem consideradas](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=0%3A1)
+
+- Foram criados e utilizados componentes a partir do framework [material-ui](https://material-ui.com/) majoritariamente, em poucos casos foi utilizado Html e CSS puro.
+
+- [Tamanho das telas a serem consideradas](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=0%3A1)
 
 
 - [Componentes visuais do app](https://www.figma.com/file/IbrhmOXkLLBB37PmNGmyzc/TCC-Room?node-id=20%3A42)
