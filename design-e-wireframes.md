@@ -22,14 +22,14 @@
 #### Sala do cafe
 ![Meeting room](.gitbook/assets/sala-cafe.jpg)
 
-#### Bot Blocking
-![Dogo blocking](.gitbook/assets/dogo-unauthorized.gif)
-
-#### Bot latindo
-![Dogo latindo](.gitbook/assets/dogo-barking.gif)
-
 #### Bot Dogo
 ![Dogo](.gitbook/assets/dogo.jpg)
+
+#### Bot Dogo Blocking
+![Dogo blocking](.gitbook/assets/dogo-unauthorized.gif)
+
+#### Bot Dogo latindo
+![Dogo latindo](.gitbook/assets/dogo-barking.gif)
 
 #### Bot Dogo falando
 ![Dogo falando](.gitbook/assets/dogo-talking.jpg)
