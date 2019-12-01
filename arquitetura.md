@@ -1,6 +1,6 @@
 [<- Voltar ao menu](README.md#artefatos-do-projeto)
 
-# Representação da Arquitetura
+# Arquitetura
 
 ## Modelo de Arquitetura
 

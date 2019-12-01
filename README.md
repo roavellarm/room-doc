@@ -30,7 +30,7 @@ A documentação dos endpoints da API se encontram disponíveis [aqui](https://g
 
 - [Planejamento da Release](planejamento-da-release.md)
 
-- [Representação da Arquitetura](representacao-da-arquitetura.md)
+- [Arquitetura](arquitetura.md)
 
 - [Testes e Validação](testes.md)
 
