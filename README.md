@@ -11,7 +11,7 @@ Podem se acessadas pelos links abaixo:
 
 - API Production: https://production-room-api.herokuapp.com/ {PATH}
 
-A documentação dos `endpoints da API` se encontram disponíveis [aqui](https://github.com/roavellarm/room-api/blob/master/schema/api.md)
+A documentação dos **endpoints da API** se encontram disponíveis [aqui](https://github.com/roavellarm/room-api/blob/master/schema/api.md)
 
 ## Repositórios de códigos da aplicação
 
