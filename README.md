@@ -2,6 +2,16 @@
 
 Este documento tem como objetivo apresentar e descrever o projeto *Room*, fornecendo informações e artefatos sobre a concepção do produto, seu planejamento, decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
+A aplicação está disponível [aqui](https://room-web.netlify.com/)
+
+A API Rest está disponível no Heroku em duas camadas: staging e production.
+Podem se acessados pelos links abaixo:
+
+- API Staging: https://staging-room-api.herokuapp.com/ {PATH}
+
+- API Production: https://production-room-api.herokuapp.com/ {PATH}
+
+A documentação dos endpoints da API se encontram disponíveis [aqui](https://github.com/roavellarm/room-api/blob/master/schema/api.md)
 
 ## Repositórios de códigos da aplicação
 
