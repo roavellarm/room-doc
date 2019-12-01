@@ -34,4 +34,4 @@ A documentação dos **endpoints da API** se encontram disponíveis [aqui](https
 
 - [Testes e Validação](testes.md)
 
-- [POSTMORTEM](postmortem.md)
+<!-- - [POSTMORTEM](postmortem.md) -->
