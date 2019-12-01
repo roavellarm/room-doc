@@ -11,14 +11,14 @@ reforçar a qualidade e funcionamento do sistema, foram criadas integrações de
 e [Netlify](https://www.netlify.com/) com os repositórios de back-end e
 front-end respectivamente.
 
+![Integração contínua](.gitbook/assets/integracao_continua.png)
+
 [Aqui](https://circleci.com/gh/roavellarm/room-api) pode ser visto os previews de deploys realizados ao longo do desenvolvimento da API.
 
 Netlify não possui um link público de acesso aos previews de deploys, a
 seguir é apresentado um print de exemplo:
 
 ![Netlify deployment preview](.gitbook/assets/netlify_deployment_preview.png)
-
-![Integração contínua](.gitbook/assets/integracao_continua.png)
 
 <!-- Explicar as abstrações das camadas \(ou seja, cada camada e "explodir"\)
 
