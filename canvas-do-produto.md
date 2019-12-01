@@ -2,6 +2,7 @@
 
 # Canvas da Projeto Room
 
+### MVP Canvas
 
-[MVP Canvas](.gitbook/assets/canvas.pdf)
+O canvas do projeto realizado em aula: [canvas](.gitbook/assets/canvas.pdf)
 
