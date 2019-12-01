@@ -16,6 +16,55 @@ do sistema e suas respectivas relações.
 
 ![Diagrama de classes](.gitbook/assets/diagrama_er.png)
 
+<br/>
+
+### ORM
+
+O Ruby on Rails conta com mapeamento objeto-relacional (ou ORM, do inglês: Object-relational mapping) que facilita o processo de desenvolvimento, não sendo necessário recorrer à programação de queries em linguagen SQL. As tabelas do banco de dados são representadas através de classes e os registros de cada tabela são representados como instâncias das classes correspondentes.
+
+Por exemplo, nos trechos de código abaixo podemos observar a
+forma como foram programadas as relações entre as entidades:
+
+```ruby
+# USER model
+  has_many :messages
+  has_many :orgs
+  has_many :user_orgs, dependent: :destroy
+  has_many :orgs_as_member, source: :org, through: :user_orgs
+  belongs_to :room, optional: true
+  belongs_to :mood, optional: true
+  belongs_to :status, optional: true
+
+# ORG model
+  belongs_to :user
+  has_many :rooms, dependent: :destroy
+  has_many :user_orgs, dependent: :destroy
+  has_many :members, source: :user, through: :user_orgs
+
+# USER-ORG
+# Classe criada para definir a relação de User como membro (member) de uma Org e não como dono (owner)
+  belongs_to :user
+  belongs_to :org
+
+# ROOM model
+  belongs_to :org
+  has_many :users
+  has_many :messages
+
+# STATUS model
+  has_many :users, dependent: :destroy
+
+# MOOD model
+  has_many :users
+
+# CHAT(messages) model
+  belongs_to :user
+  belongs_to :room
+```
+
+As classes *faq*, *feedback*, e *admin texts* não tem relação com outras classes, pois
+são utilizadas meramente para coleta de dados ou atualizações futuras do site via
+painel de usuário administrador do site.
 
 ## Integração contínua
 
