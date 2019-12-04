@@ -1,3 +1,6 @@
 .DS_Store
 .gitbook/.DS_Store
 .gitbook/assets/.DS_Store
+/artefatos/.DS_Store
+/artefatos/questionario-pesquisa/.DS_Store
+/endpoints-da-api/.DS_Store
